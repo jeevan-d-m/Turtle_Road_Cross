@@ -59,4 +59,6 @@ The objective is to guide the turtle safely across the road without colliding wi
 
 - Adjust the game settings, such as the speed of the obstacles or the appearance of the turtle, by modifying variables in the code.
 
+![turtle_gameOver](https://github.com/jeevan-d-m/Turtle_Road_Cross/assets/96460761/8ae2d579-cd1a-4cd3-8507-c5328acdd2f6)
+![turtle_start](https://github.com/jeevan-d-m/Turtle_Road_Cross/assets/96460761/54ebc44c-4361-4558-a24c-a6eba6abd76b)
 
